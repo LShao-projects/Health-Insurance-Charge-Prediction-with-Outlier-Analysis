@@ -1,6 +1,7 @@
-# STAT423-Final
+# Health Insurance Charge Prediction with Outlier Analysis
 
-By Yanting Hu, Shuxin Zhang, Liuyixin Shao, Yi Su, Dongfeng Li
+
+By Liuyixin Shao, Yanting Hu, Shuxin Zhang, Yi Su, Dongfeng Li
 
 ## Introduction
 
